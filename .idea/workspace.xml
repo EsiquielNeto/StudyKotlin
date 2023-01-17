@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77705622-d099-4c39-8364-8f3929cecbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudyKotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/files/age.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson01Vars.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson02Types.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson04Operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson06Conditions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson07Conditions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson08Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson09For.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson10When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson11Functiontions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson13Class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson14.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson15Enums.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson16Interface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson17.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson18.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/ApplicationPoo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/model/Mobile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/model/Person.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GUz1Vbg9YTcjlzhsZTYxBjeqvt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "/home/esiquielneto/Dev/studies/kotlin/StudyKotlin/src/main/kotlin/poo",
+    "last_opened_file_path": "/home/esiquielneto/Dev/studies/java/ifood-quarkus",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="poo.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.ApplicationPoo">
+    <configuration name="ApplicationPoo" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.ApplicationPoo" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson15EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.Lesson15EnumsKt" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson16InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.Lesson16InterfaceKt" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson17Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.Lesson17Kt" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson18Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.Lesson18Kt" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ApplicationPoo" />
+        <item itemvalue="Kotlin.Lesson18Kt" />
+        <item itemvalue="Kotlin.Lesson17Kt" />
+        <item itemvalue="Kotlin.Lesson16InterfaceKt" />
+        <item itemvalue="Kotlin.Lesson15EnumsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77705622-d099-4c39-8364-8f3929cecbb9" name="Changes" comment="" />
+      <created>1666457735638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666457735638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/intro/Lesson09For.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/poo/model/Person.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
