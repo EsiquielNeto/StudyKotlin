@@ -5,37 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77705622-d099-4c39-8364-8f3929cecbb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StudyKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/age.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson01Vars.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson02Types.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson04Operators.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson05.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson06Conditions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson07Conditions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson08Array.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson09For.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson10When.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson11Functiontions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson13Class.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson15Enums.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson16Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson18.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/ApplicationPoo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/model/Mobile.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/poo/model/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Conta.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Diretor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Funcionario.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Gerente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/MainByteBank.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaComportamentos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaCondicoes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaCopiasEReferencias.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaLacos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson14.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/intro/Lesson14.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,33 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "/home/esiquielneto/Dev/studies/kotlin/StudyKotlin/src/main/kotlin/poo",
-    "last_opened_file_path": "/home/esiquielneto/Dev/studies/java/ifood-quarkus",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/esiquielneto/Dev/studies/kotlin/StudyKotlin/src/main/kotlin/poo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/esiquielneto/Dev/studies/java/ifood-quarkus&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="bytebank" />
       <recent name="poo.model" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.ApplicationPoo">
+  <component name="RunManager" selected="Kotlin.MainByteBankKt">
     <configuration name="ApplicationPoo" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="poo.ApplicationPoo" />
-      <module name="StudyKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lesson15EnumsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intro.Lesson15EnumsKt" />
       <module name="StudyKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,13 +91,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainByteBankKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bytebank.MainByteBankKt" />
+      <module name="StudyKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainByteBankKt" />
         <item itemvalue="Kotlin.ApplicationPoo" />
         <item itemvalue="Kotlin.Lesson18Kt" />
         <item itemvalue="Kotlin.Lesson17Kt" />
         <item itemvalue="Kotlin.Lesson16InterfaceKt" />
-        <item itemvalue="Kotlin.Lesson15EnumsKt" />
       </list>
     </recent_temporary>
   </component>

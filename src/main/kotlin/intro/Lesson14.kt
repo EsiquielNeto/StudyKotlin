@@ -2,8 +2,9 @@ package intro
 // Properties
 
 class Square(private val height: Int, private val width: Int) {
-//    default
-//    val isSquare: Boolean
+    //default
+//    var isSquare: Boolean = false
+//        private set
 //        get() {
 //            return height == width
 //        }
