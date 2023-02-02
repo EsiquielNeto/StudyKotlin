@@ -1,10 +1,9 @@
 package bytebank
 
-class Gerente(
+class Analista(
     nome: String,
     cpf: String,
     salario: Double,
-    val senha: Int
 ) : Funcionario(
     nome = nome,
     cpf = cpf,
@@ -13,12 +12,8 @@ class Gerente(
 ) {
     override val bonificacao: Double
         get() {
-            println("bonificação gerente")
-            return super.bonificacao + salario
+            println("bonificação analista")
+            return super.bonificacao + (salario * 0.1)
         }
-
-    fun autentica(senha: Int): Boolean {
-        return this.senha == senha
-    }
 
 }

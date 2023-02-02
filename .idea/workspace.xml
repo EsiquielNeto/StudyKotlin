@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77705622-d099-4c39-8364-8f3929cecbb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Analista.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/CalculadoraBonificacao.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Diretor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Diretor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Funcionario.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Gerente.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/MainByteBank.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/MainByteBank.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,9 @@
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
       <recent name="bytebank" />
       <recent name="poo.model" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="bytebank" />
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.MainByteBankKt">
