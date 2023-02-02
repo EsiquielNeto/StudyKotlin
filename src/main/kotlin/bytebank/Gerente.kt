@@ -8,18 +8,13 @@ class Gerente(
 ) : Funcionario(
     nome = nome,
     cpf = cpf,
-    salario = salario
+    salario = salario,
+    tipo = "Gerente"
 ) {
-
-    override val bonificacao get() = salario * 0.2
+    override val bonificacao get() = super.bonificacao + salario
 
     fun autentica(senha: Int): Boolean {
         return this.senha == senha
     }
-
-    override fun toString(): String {
-        return "Gerente(nome='$nome', cpf='$cpf', salario=$salario, bonificacao=${bonificacao})"
-    }
-
 
 }

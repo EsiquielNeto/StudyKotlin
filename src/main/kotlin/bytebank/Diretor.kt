@@ -3,11 +3,13 @@ package bytebank
 class Diretor(
     nome: String,
     cpf: String,
-    salario: Double
+    salario: Double,
+    val plr: Double
 ): Funcionario(
     nome = nome,
     cpf = cpf,
-    salario = salario
+    salario = salario,
+    tipo = "Diretor"
 ) {
-    override val bonificacao get() = salario * 0.3
+    override val bonificacao get() = super.bonificacao + salario + plr
 }
