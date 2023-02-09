@@ -1,12 +1,12 @@
 package bytebank
 
-open class Funcionario(
+abstract class Funcionario(
     val nome: String,
     val cpf: String,
     val salario: Double,
-    val tipo: String
+    val tipo: String ?= null
 ) {
-    open val bonificacao get() = salario * 0.1
+    abstract val bonificacao: Double
     override fun toString(): String {
         return "$tipo nome: $nome, cpf:$cpf, salario:$salario, bonificacao=${bonificacao}"
     }

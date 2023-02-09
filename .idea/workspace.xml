@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77705622-d099-4c39-8364-8f3929cecbb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Analista.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/CalculadoraBonificacao.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/ContaCorrente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/ContaPoupanca.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Analista.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Analista.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Conta.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Conta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Diretor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Diretor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Funcionario.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Funcionario.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/Gerente.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/Gerente.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/MainByteBank.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/MainByteBank.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaComportamentos.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaComportamentos.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaCopiasEReferencias.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bytebank/TestaCopiasEReferencias.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +53,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_directory_selection": "/home/esiquielneto/Dev/studies/kotlin/StudyKotlin/src/main/kotlin/poo",
-    "last_opened_file_path": "/home/esiquielneto/Dev/studies/kotlin/bytebank",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/esiquielneto/Development/_myProjects/kotlin/StudyKotlin",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
